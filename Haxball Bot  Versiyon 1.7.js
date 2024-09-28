@@ -4,8 +4,8 @@
 
 /* ROOM */
 
-const roomName = "⚽⚽Woozie⚽⚽⚡Power ";
-const botName = " Woozie ";
+const roomName = "⚽⚽101⚽⚽⚡Power ";
+const botName = " 101 ";
 const maxPlayers = 8;
 const roomPublic = true;
 const geo = [{"code": "TR", "lat": 37.0, "lon": 28.5}, {"code": "FR", "lat": 46.2, "lon": 2.2}, {"code": "PL", "lat": 51.9, "lon": 19.1}, {"code": "GB", "lat": 55.3, "lon": -3.4}, {"code": "PT", "lat": 39.3, "lon": -8.2}];
